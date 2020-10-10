@@ -2,7 +2,6 @@
 const firebaseConfig = {
   apiKey: "AIzaSyBZ9ENzkAWKlf6EiSfjipT1JA7S1_mpfvs",
   authDomain: "password-generator-eac93.firebaseapp.com",
-  databaseURL: "https://password-generator-eac93.firebaseio.com",
   projectId: "password-generator-eac93",
   storageBucket: "password-generator-eac93.appspot.com",
   messagingSenderId: "990659361538",
